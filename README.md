@@ -12,7 +12,7 @@
 --------------------------------------------------------------------------------
 ## 🧑‍💻 Projects in Univ
 
-[[C] My shell](https://github.com/AlphaTechnic/2021-1_system_programming_proj/tree/master/sp_proj4) - pipe 명령 구현 / foreground vs background process<br>[[C] My Stock Server](https://github.com/AlphaTechnic/2021-1_system_programming_proj/tree/master/sp_proj5) - concurrent programming / thread-based vs event-driven<br>[[C] Pintos OS](https://github.com/AlphaTechnic/2021-2_OS_Pintos_proj) - file system 구현 / priority scheduling<br>[[C/Cpp] Computer Experiment](https://github.com/AlphaTechnic/2020-2_computer_experiment_1) - 테트리스 게임 구현 / waterfall 프로젝트 / random maze generator, path generator(dfs vs bfs) 구현<br>[[C] Low-level Programming](https://github.com/AlphaTechnic/2021-1_system_programming_proj) - 어셈블러, 링커, 로더 구현
+[[C] My customized shell](https://github.com/AlphaTechnic/2021-1_system_programming_proj/tree/master/sp_proj4) - pipe 명령 구현 / foreground vs background process<br>[[C] My Stock Server](https://github.com/AlphaTechnic/2021-1_system_programming_proj/tree/master/sp_proj5) - concurrent programming / thread-based vs event-driven<br>[[C] Pintos OS](https://github.com/AlphaTechnic/2021-2_OS_Pintos_proj) - file system 구현 / priority scheduling<br>[[C/Cpp] Computer Experiment](https://github.com/AlphaTechnic/2020-2_computer_experiment_1) - 테트리스 게임 구현 / waterfall 프로젝트 / random maze generator, path generator(dfs vs bfs) 구현<br>[[C] Low-level Programming](https://github.com/AlphaTechnic/2021-1_system_programming_proj) - 어셈블러, 링커, 로더 구현
 
 ## 🧑‍💻 Personal Projects
 
