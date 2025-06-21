@@ -5,9 +5,13 @@
 ## 🏫 Edu
 **Mathematics** and **Computer Engineer**, Sogang Univ.
 
-## 🗣 Activities
+## 🗣 Work Experiences
 
-**카카오브레인 백엔드 인턴 (2021.01 ~ 2021.02)**<br>**CEOS (2020.09 ~ 2021.01)** - 신촌 연합 IT 창업 학회<br>**Sogang ACM-ICPC (2020.12 ~ 2022.02)** - 알고리즘 대회 준비 교내 학회<br>**Google ML Boostcamp 2기 (2021.08 ~ 2021.12)**<br>**Goorm Devel-up 자연어처리 전문가 양성 교육 2기 (2021.11 ~ 2021.12)**<br>**우아한테크코스 프리코스 (2021.11 ~ 2021.12)**<br>
+**데브시스터즈 쿠키런 킹덤 서버 엔지니어(2022.06 ~ 현재)**<br>**카카오브레인 백엔드 인턴 (2021.01 ~ 2021.02)**<br>
+
+## 🤼‍♂️ Activities
+
+**CEOS (2020.09 ~ 2021.01)** - 신촌 연합 IT 창업 학회<br>**Sogang ACM-ICPC (2020.12 ~ 2022.02)** - 알고리즘 대회 준비 교내 학회<br>**Google ML Boostcamp 2기 (2021.08 ~ 2021.12)**<br>**Goorm Devel-up 자연어처리 전문가 양성 교육 2기 (2021.11 ~ 2021.12)**<br>**우아한테크코스 프리코스 (2021.11 ~ 2021.12)**<br>
 
 --------------------------------------------------------------------------------
 ## 🧑‍💻 Personal Projects
@@ -26,19 +30,14 @@
 ## 🧑‍💻 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp <br>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/></a> &nbsp <br>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/> &nbsp
+  <br>
+  <img src="https://img.shields.io/badge/ZIO-0E1A2B?style=flat-square&logo=scala&logoColor=red"/> &nbsp
+  <img src="https://img.shields.io/badge/Cats-FF8200?style=flat-square&logo=scala&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Shardcake-1B1F23?style=flat-square"/> &nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
 </p>
