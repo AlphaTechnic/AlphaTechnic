@@ -31,8 +31,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
   <br>
   <img src="https://img.shields.io/badge/ZIO-0E1A2B?style=flat-square&logo=scala&logoColor=red"/> &nbsp
   <img src="https://img.shields.io/badge/Cats-FF8200?style=flat-square&logo=scala&logoColor=white"/> &nbsp
