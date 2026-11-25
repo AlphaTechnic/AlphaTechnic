@@ -1,6 +1,6 @@
 ## 💻 Contact
 **Email** alphatechnicist@gmail.com<br>
-**Blog** [https://alphatechnic.tistory.com/](https://alphatechnic.tistory.com/)
+**Blog** [https://alphatechnic.github.io/](https://alphatechnic.github.io/)
 
 ## 🏫 Edu
 **Mathematics** and **Computer Engineer**, Sogang Univ.
